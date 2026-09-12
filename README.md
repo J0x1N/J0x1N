@@ -56,14 +56,6 @@ React · Tailwind CSS · Vite · JavaScript
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J0x1N&show_icons=true&hide_border=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J0x1N&layout=compact&hide_border=true&theme=github_dark)
-
----
-
 ## 🤝 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Prieto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-prieto18)
