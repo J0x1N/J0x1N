@@ -7,9 +7,8 @@ Software Engineer based in Madrid, currently working at **Capgemini** on **BAMOE
 I'm also the **CTO & Co-Founder of Outzero**, where I lead the development of a global web and mobile platform focused on discovering nature spots.
 
 - 💼 Software Developer at **Capgemini**
-- 🏦 Working with **BAMOE / Business Automation for Banco Santander**
 - 🚀 CTO & Co-Founder of **Outzero**
-- 🛡️ Master's Degree in **Offensive Security**
+- 🛡️ Software Engineer and Master's Degree in **Offensive Security**
 - 🤖 Heavy user of **AI-assisted and agentic software development**
 - ⚙️ Interested in scalable architectures, automation and cybersecurity
 - 🎯 Currently preparing for **OSCP+**
