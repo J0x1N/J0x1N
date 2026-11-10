@@ -2,7 +2,7 @@
 
 ### Software Engineer · Technical Founder · Full-Stack · AI & Cybersecurity
 
-Software Engineer based in Madrid, currently working at **Capgemini** on **BAMOE solutions for Banco Santander**.
+Software Engineer based in Madrid, currently working at **Capgemini**.
 
 I'm also the **CTO & Co-Founder of OUTZERO**, where I lead the development of a global web and mobile platform focused on discovering and sharing nature spots.
 
